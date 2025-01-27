@@ -8,3 +8,7 @@ arquivo = 'c:\\Users\\arthu\\OneDrive\\Documentos\\analise_diamantes\\archive.zi
 dados = pd.read_csv(arquivo, index_col = 0, sep=',', decimal='.')
 
 
+#alteração no codigo 
+
+
+
